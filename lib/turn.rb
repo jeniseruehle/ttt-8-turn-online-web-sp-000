@@ -34,5 +34,6 @@ def turn(board)
   valid_move?(board, 0)
   if !(valid_move?(board, 0))
     puts "Please enter 1-9:"
-  else  
+  else
+    
 end  
