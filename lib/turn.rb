@@ -36,4 +36,5 @@ def turn(board)
     turn(board)
   else
     move(board)
-end  
+end
+end
