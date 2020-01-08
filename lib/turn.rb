@@ -35,6 +35,6 @@ def turn(board)
     move(board, 0)
   else  
     turn(board)
-    display_board(board)
+    isplay_board(board)d
   end 
 end
